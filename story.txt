@@ -4,6 +4,7 @@ Some paragraph
 
 # Chapter I - The day after
 
+Another day - another dawn
 Another day after the first one
 
 # Chapter II
