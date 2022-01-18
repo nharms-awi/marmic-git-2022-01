@@ -2,9 +2,9 @@
 
 Some paragraph
 
-# Chapter I
+# Chapter I - The day after
 
-Another day
+Another day after the first one
 
 # Chapter II
 
