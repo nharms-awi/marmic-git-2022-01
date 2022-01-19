@@ -7,6 +7,7 @@ Some paragraph
 Another day - another dawn
 Another day after the first one
 SSH ... dont tell me about that.
+Github Pull requests are awesome
 
 # Chapter II
 
