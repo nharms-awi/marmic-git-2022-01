@@ -20,4 +20,5 @@ Lets start with the merges.
 
 # Chapter IV
 
-New day new text
+New day new text.
+Another commit
